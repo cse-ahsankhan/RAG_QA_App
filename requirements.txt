@@ -1,0 +1,6 @@
+chromadb==0.5.5
+langchain==0.2.16
+langchain_community==0.2.16
+langchain_openai==0.1.23
+openai==1.44.1
+pandas==2.2.2
